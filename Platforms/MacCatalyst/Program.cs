@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace _2dQrScanner
+namespace PharmacyDataMatrixScanner
 {
     public class Program
     {

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Shell
-    x:Class="_2dQrScanner.AppShell"
+    x:Class="PharmacyDataMatrixScanner.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:view="clr-namespace:_2dQrScanner.View"
+    xmlns:view="clr-namespace:PharmacyDataMatrixScanner.View"
     Shell.FlyoutBehavior="Disabled"
     Title="_2dQrScanner">
 

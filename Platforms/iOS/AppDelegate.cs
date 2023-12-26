@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace _2dQrScanner
+namespace PharmacyDataMatrixScanner
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

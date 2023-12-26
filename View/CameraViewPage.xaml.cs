@@ -1,9 +1,9 @@
-using _2dQrScanner.Model;
+using PharmacyDataMatrixScanner.Model;
 using Camera.MAUI.ZXingHelper;
 using ZXing;
 using ZXing.Datamatrix;
 using ZXing.OneD;
-namespace _2dQrScanner.View;
+namespace PharmacyDataMatrixScanner.View;
 
 public partial class CameraViewPage : ContentPage
 {

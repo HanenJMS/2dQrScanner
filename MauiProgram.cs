@@ -1,7 +1,7 @@
 ﻿using Camera.MAUI;
 using Microsoft.Extensions.Logging;
 
-namespace _2dQrScanner
+namespace PharmacyDataMatrixScanner
 {
     public static class MauiProgram
     {

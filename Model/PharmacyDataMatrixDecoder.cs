@@ -2,7 +2,7 @@
 using System.Text;
 using ZXing;
 
-namespace _2dQrScanner.Model
+namespace PharmacyDataMatrixScanner.Model
 {
     static class PharmacyDataMatrixDecoder
     {

@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace _2dQrScanner
+namespace PharmacyDataMatrixScanner
 {
     [Application]
     public class MainApplication : MauiApplication

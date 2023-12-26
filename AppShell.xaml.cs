@@ -1,4 +1,4 @@
-﻿namespace _2dQrScanner
+﻿namespace PharmacyDataMatrixScanner
 {
     public partial class AppShell : Shell
     {
