@@ -1,1 +1,1 @@
-# 2dQrScanner
+# PharmacyDataMatrixScanner
